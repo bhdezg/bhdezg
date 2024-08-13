@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>I’m passionate about finding insights in data to assist deccision makers grow their businesses or make them more efficient</h2>
+  <h2>I'm passionate about uncovering insights in data to help decision-makers grow their businesses and improve efficiency.</h2>
 </div>
 
  <h3>Some things about me: </h3>
