@@ -23,12 +23,12 @@
 ---
 <h3>Stack</h3>
 <p align="left">
-<a href="none" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="sql" width="80" /></a>
-<a href="none"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe6IR3EKgALq0lEUvpW3GmPH8rpAv1cK0_w&s" alt="python" width="50" /></a>
-<a href="none" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="80" /></a>
-<a href="none" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="excel" width="50" /></a>
-<a href="none" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="pandas" width="50" /></a>
-<a href="none" target="_blank"><img align="center" src="https://icon2.cleanpng.com/20180331/rje/avcnsn4m3.webp" alt="airflow" width="50" /></a>
+<a href="https://es.wikipedia.org/wiki/SQL" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="sql" width="80" /></a>
+<a href="https://www.python.org/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe6IR3EKgALq0lEUvpW3GmPH8rpAv1cK0_w&s" alt="python" width="50" /></a>
+<a href="https://www.tableau.com/" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="80" /></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="excel" width="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="pandas" width="50" /></a>
+<a href="https://airflow.apache.org/" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="airflow" width="50" /></a>
 </p>
 
 <!---
